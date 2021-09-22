@@ -18,5 +18,10 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Orcale-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
-</p>
+</p><br>
+
+💪BackJoon Solved
+<br>
+<br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjh92)](https://solved.ac/chjh92)
 
